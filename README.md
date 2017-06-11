@@ -1,7 +1,19 @@
 <head> <b><p>#r experiments</p></b></head>
 
-<b> exp #2
+<b> <p>exp #3</p>
 
+google map intensity plots using global terrorism index dataset; showing statewise terrorist incidents in India.
+<p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%203/plots/map1.png"></p>
+
+<p> Time line of terrorist incidents in India</p>
+<p><img src ="https://github.com/ipsitrath/r_exp/blob/master/Exp%203/plots/line1.png"></p>
+
+<p>Major terrorist attack targets in India</p>
+
+<p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%203/plots/bubble1.png"></p>
+
+
+<p>exp #2</p>
 Some Interesting plots using IMDB 5000 movie dataset and plotly in r.
 
 Lets plot Gross earnings of movies with their budgets.
