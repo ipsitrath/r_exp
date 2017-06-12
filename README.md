@@ -34,10 +34,6 @@ Lets investigate the relationship further.
 We can see; higher the IMDB ratings; the relation between gross returns and budget is more linear.
 <p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%202/plots/grossvsbudget2.png"></p>
 
-A simple Pie Chart to summarize things.</b>
-<p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%202/plots/pie1.png"></p>
-
-
 <p> r exp #2</p>
 R has excellent visulization packages like ggplot2, lattice, plotly etc.
 <p>I used the primary Indian industrial data; "Annual Survey of Industries" to summarize different aspects of Indian industries using ggplot2 visulization.</p>
