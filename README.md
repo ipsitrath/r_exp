@@ -13,7 +13,7 @@ a line plot of american sales vs global sales with a timeline
 
 <b> <p>exp #3</p>
 
-google map intensity plots using global terrorism index dataset; showing statewise terrorist incidents in India.
+google map intensity plot using global terrorism index dataset; showing state wise terrorist incidents in India.
 <p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%203/plots/map1.png"></p>
 
 <p> Time line of terrorist incidents in India</p>
