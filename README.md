@@ -2,7 +2,7 @@
 
 
 <b> <p>exp #4</p>
-some simple 3d plots using plotly in r and games sales data.
+some simple 3d plots using plotly in r and game sales data.
 <p>a line plot of game sales in america vs global sales with a timeline</p>
 <p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%204/plot/line3d.html.png"></p>
 
