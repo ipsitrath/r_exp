@@ -1,6 +1,4 @@
-setwd("F:\\Scripts\\github\\Exp 3")
-
-d1 <- read.csv("data\\globalterrorismdb_0616dist.csv", header = TRUE)
+d1 <- read.csv("data\\globalterrorismdb_0616dist.csv", header = TRUE) #unzip the data 
 
 library(plotly)
 library(dplyr)
