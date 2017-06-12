@@ -1,16 +1,27 @@
 <head> <b><p>#r experiments</p></b></head>
 
+
+<b> <p>exp #4</p>
+some 3d plots using plotly in r and games sales data.
+a line plot of american sales vs global sales with a timeline
+<p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%204/plot/line3d.html"></p>
+
+<p>now lets try a scatter of sales figures categorized by game platforms</p>
+
+<p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%204/plot/scatter3d.html.png"></p>
+
+
 <b> <p>exp #3</p>
 
 google map intensity plots using global terrorism index dataset; showing statewise terrorist incidents in India.
 <p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%203/plots/map1.png"></p>
 
 <p> Time line of terrorist incidents in India</p>
-<p><img src ="https://github.com/ipsitrath/r_exp/blob/master/Exp%203/plots/line1.png"></p>
+<p><img src ="https://github.com/ipsitrath/r_exp/blob/master/Exp%203/plots/line2.png"></p>
 
 <p>Major terrorist attack targets in India</p>
 
-<p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%203/plots/bubble1.png"></p>
+<p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%203/plots/bubble2.png"></p>
 
 
 <p>exp #2</p>
