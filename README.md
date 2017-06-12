@@ -4,7 +4,7 @@
 <b> <p>exp #4</p>
 some 3d plots using plotly in r and games sales data.
 a line plot of american sales vs global sales with a timeline
-<p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%204/plot/line3d.html"></p>
+<p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%204/plot/line3d.html.png"></p>
 
 <p>now lets try a scatter of sales figures categorized by game platforms</p>
 
