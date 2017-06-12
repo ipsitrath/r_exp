@@ -1,4 +1,3 @@
-setwd("F:\\Scripts\\github\\Exp 4")
 d1 <- read.csv("data\\vgsales.csv", header = TRUE)
 View(d1)
 colnames(d1)
