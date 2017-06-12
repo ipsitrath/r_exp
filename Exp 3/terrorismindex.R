@@ -1,4 +1,6 @@
-d1 <- read.csv("data\\globalterrorismdb_0616dist.csv", header = TRUE) #unzip the data 
+setwd("F:\\Scripts\\github\\Exp 3")
+
+d1 <- read.csv("data\\globalterrorismdb_0616dist.csv", header = TRUE)
 
 library(plotly)
 library(dplyr)
@@ -27,7 +29,7 @@ p <- plot_ly(freq2, x=~Var1, y=~Freq,color='red',type = "scatter", mode="line",
 p
 
 t_india$count <- 1
-freq3 <- ddply(t_india, c("targtype1_txt"), summarise, fatality=sum(nkill, na.rm = TRUE), injury=sum(nwound, na.rm = TRUE), count=sum(count))
+freq3 <- ddply(t_india, c("targtype1_txt"), summarise, fatality=round(sum(nkill, na.rm = TRUE),0), injury=sum(nwound, na.rm = TRUE), count=sum(count))
 freq3 <- mutate(freq3, counp=round((count/sum(count))*100, 2))%>% 
   filter(counp>5)
 
