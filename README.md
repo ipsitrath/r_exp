@@ -21,7 +21,7 @@ google map intensity plot using global terrorism index dataset; showing state wi
 
 <p>Major terrorist attack targets in India</p>
 
-<p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%203/plots/bubble1.png"></p>
+<p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%203/plots/bubble3.png"></p>
 
 
 <p>exp #2</p>
