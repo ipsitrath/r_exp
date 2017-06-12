@@ -35,8 +35,8 @@ We can see; higher the IMDB ratings; the relation between gross returns and budg
 <p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%202/plots/grossvsbudget2.png"></p>
 
 <p> r exp #2</p>
-R has excellent visulization packages like ggplot2, lattice, plotly etc.
-<p>I used the primary Indian industrial data; "Annual Survey of Industries" to summarize different aspects of Indian industries using ggplot2 visulization.</p>
+<p>R has excellent visualization packages like ggplot2, lattice, plotly etc.</p>
+<p>I used the primary Indian industrial data; "Annual Survey of Industries" to summarize different aspects of Indian industries using ggplot2 visualization.</p>
 
 First lets see the no. of workers per firm in different states. A bar plot would have sufficed for the comparision but the jitter plot shows the concentration of firms according to their workforce. If you consider 'no. of workers' as a proxy for larger firms; you can see the concentration of larger and smaller firms of a state vis-a-vis with other states
 
