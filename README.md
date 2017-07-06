@@ -28,7 +28,7 @@ We can see; higher the IMDB ratings; the relation between gross returns and budg
 <p>R has excellent visualization packages like ggplot2, lattice, plotly etc.</p>
 <p>I used the primary Indian industrial data; "Annual Survey of Industries" to summarize different aspects of Indian industries using ggplot2 visualization.</p>
 
-First lets see the no. of workers per firm in different states. A bar plot would have sufficed for the comparision but the jitter plot shows the concentration of firms according to their workforce. If you consider 'no. of workers' as a proxy for larger firms; you can see the concentration of larger and smaller firms of a state vis-a-vis with other states
+First let's see the no. of workers per firm in different states. A bar plot would have sufficed for the comparison but the jitter plot shows the concentration of firms according to their workforce. If you consider 'no. of workers' as a proxy for larger firms; you can see the concentration of larger and smaller firms of a state vis-a-vis with other states
 
 
 <p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%201/plots/workers.png"></p>
@@ -36,7 +36,7 @@ First lets see the no. of workers per firm in different states. A bar plot would
 The same plot with Rural and Urban grouping
 <p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%201/plots/workersru.png"></p>
 
-Now lets see bring in ouput of the firms into the picture. The overall trend we can see here is that, firms with larger workforce produce greater outputs
+Now let's see bring in output of the firms into the picture. The overall trend we can see here is that, firms with larger workforce produce greater outputs
 <p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%201/plots/ovsw.png"></p>
 
 Now let's create a scatterplot of 'Gross Value Added' of the firms versus their no. workers with regression lines.
@@ -46,7 +46,7 @@ Here I used the "car" package's 'scatterplot' to create the plots.
 <p>Another scattar of Wage vs Workers</p>
 <p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%201/plots/wage%20vs%20workers.png"></p>
 
-<p>Based on all the plots we have done we can see there is certain correlation. Let's take a look at the pairwise correlation to ascertain the relationships in more detail.</p>
+<p>Based on all the plots we have done we can see there is a certain correlation. Let's take a look at the pairwise correlation to ascertain the relationships in more detail.</p>
 
 <p><img src="https://github.com/ipsitrath/r_exp/blob/master/Exp%201/plots/corr.png"></p>
 
